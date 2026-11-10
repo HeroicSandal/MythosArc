@@ -29,6 +29,16 @@
       "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-village-of-women.mythosarc-world.json",
       "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-village-of-women.jpg",
       "addedAt": "2026-11-10T05:22:53.267Z"
+    },
+    {
+      "id": "lumencia-academy",
+      "title": "Lumencia Academy",
+      "author": "HeroicSandal",
+      "genre": "Academy fantasy — political intrigue",
+      "description": "An imperial academy where the blade and the arcane are tested against each other — and something older moves beneath the empire.",
+      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/lumencia-academy.mythosarc-world.json",
+      "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/lumencia-academy.jpg",
+      "addedAt": "2026-11-10T05:23:13.503Z"
     }
   ]
 }
