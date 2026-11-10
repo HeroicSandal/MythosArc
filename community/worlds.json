@@ -39,6 +39,16 @@
       "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/lumencia-academy.mythosarc-world.json",
       "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/lumencia-academy.jpg",
       "addedAt": "2026-11-10T05:23:13.503Z"
+    },
+    {
+      "id": "the-hood-falls",
+      "title": "The Hood Falls",
+      "author": "HeroicSandal",
+      "genre": "Dark Fantasy",
+      "description": "A child's face unveiled, destiny unravels amid fire and fear.",
+      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-hood-falls.mythosarc-world.json",
+      "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-hood-falls.jpg",
+      "addedAt": "2026-11-10T05:23:24.710Z"
     }
   ]
 }
