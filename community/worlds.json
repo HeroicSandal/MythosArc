@@ -49,6 +49,16 @@
       "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-hood-falls.mythosarc-world.json",
       "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-hood-falls.jpg",
       "addedAt": "2026-11-10T05:23:24.710Z"
+    },
+    {
+      "id": "dying-for-the-crown",
+      "title": "Dying for the Crown",
+      "author": "HeroicSandal",
+      "genre": "Otome / Reincarnation Fantasy",
+      "description": "Saved the kingdom once as a saint; now forced to survive it as its worst villain.",
+      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/dying-for-the-crown.mythosarc-world.json",
+      "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/dying-for-the-crown.jpg",
+      "addedAt": "2026-11-10T05:23:37.000Z"
     }
   ]
 }
