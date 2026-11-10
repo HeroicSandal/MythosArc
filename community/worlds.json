@@ -1,13 +1,3 @@
 {
-  "worlds": [
-    {
-      "id": "the-girl-everyone-fears",
-      "title": "The Girl Everyone Fears",
-      "author": "HeroicSandal",
-      "genre": "College drama — social hierarchy, rivalry, romance",
-      "description": "You run this campus. Then your mother introduces a fiancé and his son, and for the first time in years someone looks at you like you are not frightening at all.",
-      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-girl-everyone-fears.mythosarc-world.json",
-      "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-girl-everyone-fears.jpg"
-    }
-  ]
+  "worlds": []
 }
