@@ -19,6 +19,16 @@
       "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-girl-everyone-fears.mythosarc-world.json",
       "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-girl-everyone-fears.jpg",
       "addedAt": "2026-11-10T05:22:45.177Z"
+    },
+    {
+      "id": "the-village-of-women",
+      "title": "The Village of Women",
+      "author": "HeroicSandal",
+      "genre": "Japanese village romance — slice of life, comedy",
+      "description": "Once every ten years the deity guides one man to Onna no Sato. You are him, the lanterns are lit, and every woman in the valley has an opinion about it.",
+      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-village-of-women.mythosarc-world.json",
+      "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-village-of-women.jpg",
+      "addedAt": "2026-11-10T05:22:53.267Z"
     }
   ]
 }
