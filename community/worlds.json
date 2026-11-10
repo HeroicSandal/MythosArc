@@ -59,6 +59,30 @@
       "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/dying-for-the-crown.mythosarc-world.json",
       "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/dying-for-the-crown.jpg",
       "addedAt": "2026-11-10T05:23:37.000Z"
+    },
+    {
+      "id": "the-emberwake",
+      "title": "The Emberwake",
+      "author": "HeroicSandal",
+      "genre": "Dark fantasy / Adventure",
+      "description": "The mountain has been burning for forty years. Last night it started walking — and it is heading for the last city that still has water.",
+      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-emberwake.mythosarc-world.json",
+      "thumb": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-emberwake.png",
+      "tags": [
+        "fantasy",
+        "adventure",
+        "mystery"
+      ],
+      "addedAt": "2026-11-10T09:03:03.774Z",
+      "music": {
+        "calm": [
+          "community/worlds/the-emberwake/music/calm.wav"
+        ],
+        "battle": [
+          "community/worlds/the-emberwake/music/battle.wav"
+        ]
+      },
+      "musicBytes": 2557890
     }
   ]
 }
