@@ -1,3 +1,13 @@
 {
-  "worlds": []
+  "worlds": [
+    {
+      "id": "the-hundred-year-silence",
+      "title": "The Hundred-Year Silence",
+      "author": "HeroicSandal",
+      "genre": "High fantasy — religious and political",
+      "description": "For a hundred years the Rite of Giving was performed and nothing came. This year it worked — and the Church is owed a debt for every year it waited.",
+      "download": "https://raw.githubusercontent.com/HeroicSandal/MythosArc/main/community/worlds/the-hundred-year-silence.mythosarc-world.json",
+      "thumb": ""
+    }
+  ]
 }
